@@ -1,5 +1,5 @@
 # Anti-Cheat-list
--1. Larry AI anticheat on top. 
+0. Larry AI anticheat on top. 
 
 1. AGC/Spark - AGC wins this in terms of detections (aim/clicker checks) but spark detects and bans faster than AGC
 2. Meow - heard it's pretty good but hasn't been tested on public servers
