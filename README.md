@@ -1,9 +1,9 @@
 # Anti-Cheat-list
 0. Larry AI anticheat on top. 
 
-1.AGC/Spark - AGC wins this in terms of detections (aim/clicker checks) but spark detects and bans faster than AGC
-2.Aque - Was one of the best Anti-Cheats Back In the Days, Rip AQUE-MACHINE-LEARNING-ANTI-CHEAT.
-3.Meow - heard it's pretty good but hasn't been tested on public servers
+1. AGC/Spark - AGC wins this in terms of detections (aim/clicker checks) but spark detects and bans faster than AGC
+2. Aque - Was one of the best Anti-Cheats Back In the Days, Rip AQUE-MACHINE-LEARNING-ANTI-CHEAT.
+3. Meow - heard it's pretty good but hasn't been tested on public servers
 4.Trojan - Made by the best Developer to exist.  Fastest AUTOCLICKER detections ever.
 5.PvPLand's anticheat - pretty good anticheat but has 1-3 bypasses and no clicker checks
 6.Verus - stable anticheat for almost any server but has some bypasses
