@@ -1,15 +1,13 @@
 # Anti-Cheat-list
-0. Larry AI anticheat on top. 
-
-1. AGC/Spark - AGC wins this in terms of detections (aim/clicker checks) but spark detects and bans faster than AGC
-2. Aque - Was one of the best Anti-Cheats Back In the Days, Rip AQUE-MACHINE-LEARNING-ANTI-CHEAT.
-3. Meow - heard it's pretty good but hasn't been tested on public servers
-4. Trojan - Made by the best Developer to exist.  Fastest AUTOCLICKER detections ever.
-5. PvPLand's anticheat - pretty good anticheat but has 1-3 bypasses and no clicker checks
-6. Verus - stable anticheat for almost any server but has some bypasses
-7. DotLegit - Good but rowin bypassed it in 3 mins
-8. Iris - idk ok quality drops after Verus
-9. Sparky - haven't heard much for it but can apparently detect some cheats ??
-10. Kauri - pretty bad lets be honest but doesnt kill the tps
-11. Overflow - has false flags and kills tps on any server
-kanker
+1. Spark - Banned me for autoclicker and 3-3.1 reach on Vape v3 in one duel. 
+2. Meow - Basically the best anticheat, for only 50000$ per hour.
+3. AGC - Second best private server anticheat, only bested by Spark.
+4. Trojan - eh heard it was good but never tried.
+5. Overflow/Sparky - good detections on both.
+6. Verus (more $$$ versions) - decent overall but too many disablers. If you use Verus your players are either legit or are using TP-aura, fly, and 1000% speed.
+7. Karhu - Best budget anticheat IMO, reach detection too good to be just 15 euros.
+8. Vulcan - Second best budget anticheat, rapes LiquidBounce and most clients.
+9. Frequency - Really good open source anticheat.
+10. Medusa/ThotPatrol - Good free options for 1.8 anticheats.
+11. Spartan - Bad anticheat IMO, but I needed something to put here.
+12. Iris - Before Karhu/Vulcan, this was the budget anticheat of choice for 1.8.
