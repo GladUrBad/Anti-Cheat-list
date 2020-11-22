@@ -1,4 +1,4 @@
-# Anti-Cheat-list
+# Anti-Cheat-list (THIS IS A VERY BIASED LIST, DO NOT TAKE SERIOUSLY, DO NOT COMPARE ANTICHEATS BASED ON THIS LIST. THIS IS A MEME!!!!)
 1. Spark - Banned me for autoclicker and 3-3.1 reach on Vape v3 in one duel. 
 2. Meow - Basically the best anticheat, for only 50000$ per hour.
 3. AGC - Second best private server anticheat, only bested by Spark.
